@@ -2,14 +2,13 @@
 casus sum of spirals diagonals  
 Given a matrix of shape N×N arranged in a "spiral", with its numbers spiralling from 1 to N² inward, what is the sum of its diagonals? See examples to clarify what a spiral is.  
   
-$\qquad$ My line of text
 Example 1:  
 The input: 3  
 Gives the following spiral:  
   
-1     2     3   
-8     9     4  
-7     6     5  
+1$\qquad$2$\qquad$3   
+8$\qquad$9$\qquad$4  
+7$\qquad$6$\qquad$5  
   
 The sum of the diagonals is:   
 1 + 3 + 5 + 7 + 9 = 25  
