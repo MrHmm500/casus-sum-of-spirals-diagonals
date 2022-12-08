@@ -2,6 +2,7 @@
 casus sum of spirals diagonals  
 Given a matrix of shape N×N arranged in a "spiral", with its numbers spiralling from 1 to N² inward, what is the sum of its diagonals? See examples to clarify what a spiral is.  
   
+$\qquad$ My line of text
 Example 1:  
 The input: 3  
 Gives the following spiral:  
