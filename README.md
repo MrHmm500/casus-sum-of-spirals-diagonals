@@ -21,7 +21,7 @@ Gives the following spiral:
 1&nbsp;&nbsp; $\qquad$ 2&nbsp;&nbsp; $\qquad$ 3&nbsp;&nbsp;&nbsp; $\qquad$ 4  
 12 $\qquad$ 13 $\qquad$ 14 $\qquad$ 5  
 11 $\qquad$ 16 $\qquad$ 15 $\qquad$ 6  
-10 $\qquad$ 9&nbsp; $\qquad$ 8&nbsp;&nbsp; $\qquad$ 7  
+10 $\qquad$ 9&nbsp;&nbsp; $\qquad$ 8&nbsp;&nbsp; $\qquad$ 7  
   
 The sum of the diagonals is:  
 1 + 4 + 7 + 10 + 13 + 14 + 15 + 16 = 80  
