@@ -18,7 +18,7 @@ Example 2:
 The input: 4  
 Gives the following spiral:  
   
-1&nbsp; $\qquad$ 2&nbsp; $\qquad$ 3&nbsp; $\qquad$ 4  
+1&nbsp;&nbsp; $\qquad$ 2&nbsp; $\qquad$ 3&nbsp; $\qquad$ 4  
 12 $\qquad$ 13 $\qquad$ 14 $\qquad$ 5  
 11 $\qquad$ 16 $\qquad$ 15 $\qquad$ 6  
 10 $\qquad$ 9&nbsp; $\qquad$ 8&nbsp; $\qquad$ 7  
