@@ -6,7 +6,7 @@ Example 1:
 The input: 3  
 Gives the following spiral:  
   
-1$\qquad$2$\qquad$3   
+1 $\qquad$ 2$\qquad$3   
 8$\qquad$9$\qquad$4  
 7$\qquad$6$\qquad$5  
   
