@@ -1,0 +1,18 @@
+{
+  "Odd spiral": {
+    "expectedOutput" : "133",
+    "input": "5"
+  },
+  "Even spiral": {
+    "expectedOutput" : "61584",
+    "input" : "36"
+  },
+  "Bigger spiral" : {
+    "expectedOutput" : "270890816",
+    "input" : "588"
+  },
+  "Milky way" : {
+    "expectedOutput" : "4086949725",
+    "input" : "1453"
+  }
+}
